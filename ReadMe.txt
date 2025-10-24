@@ -1,6 +1,8 @@
 ﻿https://github.com/okovtun/PD_411_SP.git
 https://www.youtube.com/playlist?list=PLeqyOOqxeiIPyJy7D6jp33jeFGUCWECYP
 
+Qt:https://www.qt.io/
+
 HTTP RFC:	https://www.rfc-editor.org/rfc/rfc2616.pdf
 
 TODO:
